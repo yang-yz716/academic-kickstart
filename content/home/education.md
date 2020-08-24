@@ -19,26 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Shandong University"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  company = "M.S. in Control Science and Engineering"
+  company_url = "https://en.wikipedia.org/wiki/Shandong_University"
+  location = "Jinan, China"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Postgraduate Recommendation
+  * Outstanding Freshman Scholarship(Top 3%)
+  * 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Shandong University"
+  company = "B.S. in Automation Science"
+  company_url = "https://en.wikipedia.org/wiki/Shandong_University"
+  location = "Jinan, China"
+  date_start = "2015-09-01"
+  date_end = "2019-06-30"
+  description = ""
 
 +++
