@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Shandong University"
   company = "B.S. in Automation Science"
-  company_url = "http://control.sdu.edu.cn"
+  company_url = "https://www.sdu.edu.cn"
   location = "Jinan, China"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
