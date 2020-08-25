@@ -47,7 +47,17 @@ date_format = "Jan 2006"
   date_start = "2019-05-16"
   date_end = "2019-08-18"
   description = ""
-  
+ 
+[[item]]
+  #organization = ""
+  #organization_url = ""
+  title = "First Prize(Champion) in Paper Bridge Structure Design Competition of SDU"
+  #url = ""
+  #certificate_url = ""
+  date_start = "2018-11-20"
+  #date_end = ""
+  description = ""
+ 
 [[item]]
   organization = "TEXAS INSTRUMENTS"
   organization_url = "https://en.wikipedia.org/wiki/Texas_Instruments"
@@ -57,14 +67,34 @@ date_format = "Jan 2006"
   date_start = "2018-07-20"
   date_end = "2018-07-23"
   description = ""
+  
+[[item]]
+  #organization = ""
+  #organization_url = ""
+  title = "First Prize in Energy Saving and Emission Reduction Technology Competition of SDU"
+  url = "https://www.view.sdu.edu.cn/info/1023/102416.htm"
+  certificate_url = ""
+  date_start = "2018-04-10"
+  #date_end = ""
+  description = ""
 
 [[item]]
-  #organization = "TEXAS INSTRUMENTS"
-  #organization_url = "https://en.wikipedia.org/wiki/Texas_Instruments"
+  #organization = ""
+  #organization_url = ""
+  title = "Second Prize in "Internet+" Innovation and Entrepreneurship Competition of SDU"
+  #url = ""
+  certificate_url = ""
+  date_start = "2017-08-10"
+  #date_end = ""
+  description = ""
+
+[[item]]
+  #organization = ""
+  #organization_url = ""
   title = "First Prize in MCU Application Technology Competition of SDU"
   url = "https://www.view.sdu.edu.cn/info/1022/90851.htm"
   certificate_url = ""
   date_start = "2017-06-10"
-  #date_end = "2018-07-23"
+  #date_end = ""
   description = ""
 +++
