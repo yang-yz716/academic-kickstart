@@ -15,7 +15,7 @@ role: Postgraduate Student of Control Science and Engineering
 # Organizations/Affiliations
 organizations:
 - name: Shandong University
-  url: "www.sdu.edu.cn"
+  url: "https://www.sdu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
