@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  organization = "China Academic Degrees & Graduate Education Information"
+  organization_url = "http://www.chinadegrees.cn/"
+  title = "National Third Prize | "Huawei Cup" 16th China Post-Graduate Mathematical Contest in Modeling"
+  url = "https://cpipc.chinadegrees.cn//cw/detail/4/2c9088a56a8cc79f016ab5aea9e45842"
+  certificate_url = "https://cpipc.chinadegrees.cn//cw/detail/4/2c9088a56e1b7bf9016e8b33830300bf"
+  date_start = "2019-09-19"
+  date_end = "2019-09-23"
   description = ""
 
 [[item]]
