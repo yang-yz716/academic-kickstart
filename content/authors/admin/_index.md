@@ -25,7 +25,7 @@ interests:
 - Target-driven Navigation
 - Robotics
 
-certificates:
+education:
 - course: IELTS
   institution: 
   year: 
