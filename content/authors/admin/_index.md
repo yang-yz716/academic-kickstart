@@ -25,17 +25,24 @@ interests:
 - Target-driven Navigation
 - Robotics
 
-education:
+certificates:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: IELTS
+    institution: 
+    year: 
+  - course: College English Test Band 6 Certificate
+    institution: PASS
+    year: 497
+  - course: Test for English Major Grade 4 Certificate
+    institution: PASS
+    year: 567
+  - course: National Mandarin Test
+    institution: 
+    year: (Level 2 / Grade A)
+  - course: National Computer Rank Examination (NCRE)
+    institution: Third-level Certificate for National Computer
+    year: RankⅢ
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
