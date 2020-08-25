@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: yangzhiyong@mail.sdu.edu.cn
+  link: mailto:yangzhiyong@mail.sdu.edu.cn
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
