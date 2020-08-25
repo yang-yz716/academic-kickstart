@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Chinese Institute of Electronics"
   organization_url = "https://www.cie-info.org.cn/"
-  title = "National Second Prize|The 14th China Graduate Electronics Design Contest"
+  title = "National Second Prize | The 14th China Graduate Electronics Design Contest"
   url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a6696cbfd70169950ac06d00bd"
   certificate_url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a76bc587c8016c9bb4c89766a2"
   date_start = "2019-05-16"
