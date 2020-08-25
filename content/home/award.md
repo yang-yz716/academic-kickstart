@@ -49,13 +49,13 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "TEXAS INSTRUMENTS"
+  organization_url = "https://en.wikipedia.org/wiki/Texas_Instruments"
+  title = "Provincial Second Prize | TIIC 2018 National Undergraduate Electronics Design Contest"
+  url = "https://www.nuedc-training.com.cn/index/news/details/new_id/56"
+  certificate_url = "https://www.nuedc-training.com.cn/index/news/details/new_id/66"
+  date_start = "2018-07-20"
+  date_end = "2018-07-23"
   description = ""
 
 +++
