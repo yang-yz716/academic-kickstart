@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   * Excellent League Member
   * Excellent Student Cadre
   * Outstanding Student Scholarship (Grade 2)
-  *
+  * Komatsu Sino Japanese scholarship
   """
 
 +++
