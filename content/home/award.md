@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "HuaWei"
+  organization_url = "https://competition.huaweicloud.com/competitions?track=113"
+  title = "Top 40(875 teams) | 2020 Huawei CodeCraft"
+  url = "https://competition.huaweicloud.com/information/1000036578/introduction?track=113"
+  certificate_url = ""
+  date_start = "2020-04-08"
+  date_end = "2020-04-27"
+  description = ""
+
+[[item]]
   organization = "China Academic Degrees & Graduate Education Information"
   organization_url = "http://www.chinadegrees.cn/"
   title = "National Third Prize | "Huawei Cup" 16th China Post-Graduate Mathematical Contest in Modeling"
