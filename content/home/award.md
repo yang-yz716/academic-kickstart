@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Chinese Institute of Electronics"
+  organization_url = "https://www.cie-info.org.cn/"
+  title = "National Second Prize|The 14th China Graduate Electronics Design Contest"
+  url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a6696cbfd70169950ac06d00bd"
+  certificate_url = "https://cpipc.chinadegrees.cn//cw/detail/6/2c9088a76bc587c8016c9bb4c89766a2"
+  date_start = "2019-05-16"
+  date_end = "2019-08-18"
+  description = ""
   
 [[item]]
   organization = "DataCamp"
