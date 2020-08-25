@@ -51,11 +51,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = "TEXAS INSTRUMENTS"
   organization_url = "https://en.wikipedia.org/wiki/Texas_Instruments"
-  title = "Provincial Second Prize | TIIC 2018 National Undergraduate Electronics Design Contest"
+  title = "Second Prize in Shandong Province | TIIC 2018 National Undergraduate Electronics Design Contest"
   url = "https://www.nuedc-training.com.cn/index/news/details/new_id/56"
   certificate_url = "https://www.nuedc-training.com.cn/index/news/details/new_id/66"
   date_start = "2018-07-20"
   date_end = "2018-07-23"
   description = ""
 
+[[item]]
+  #organization = "TEXAS INSTRUMENTS"
+  #organization_url = "https://en.wikipedia.org/wiki/Texas_Instruments"
+  title = "First Prize in MCU Application Technology Competition of SDU"
+  url = "https://www.view.sdu.edu.cn/info/1022/90851.htm"
+  certificate_url = ""
+  date_start = "2017-06-10"
+  #date_end = "2018-07-23"
+  description = ""
 +++
