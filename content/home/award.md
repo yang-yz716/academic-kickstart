@@ -30,8 +30,8 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "China Academic Degrees & Graduate Education Information"
-  organization_url = "http://www.chinadegrees.cn/"
-  title = "National Third Prize | "Huawei Cup" 16th China Post-Graduate Mathematical Contest in Modeling"
+  organization_url = "http://www.chinadegrees.cn"
+  title = "National Third Prize | \"Huawei Cup\" 16th China Post-Graduate Mathematical Contest in Modeling"
   url = "https://cpipc.chinadegrees.cn//cw/detail/4/2c9088a56a8cc79f016ab5aea9e45842"
   certificate_url = "https://cpipc.chinadegrees.cn//cw/detail/4/2c9088a56e1b7bf9016e8b33830300bf"
   date_start = "2019-09-19"
