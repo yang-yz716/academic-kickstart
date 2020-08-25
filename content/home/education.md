@@ -28,9 +28,7 @@ date_format = "Jan 2006"
   
   * Postgraduate Recommendation
   * Outstanding Freshman Scholarship(Top 3%)
-  * 
-  
-"""
+  * """
 
 [[experience]]
   title = "Shandong University"
@@ -45,8 +43,6 @@ date_format = "Jan 2006"
   * Excellent League Member
   * Excellent Student Cadre
   * Outstanding Student Scholarship (Grade 2)
-  *
-  
-  """
+  *"""
 
 +++
