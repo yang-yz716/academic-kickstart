@@ -81,7 +81,7 @@ date_format = "Jan 2006"
 [[item]]
   #organization = ""
   #organization_url = ""
-  title = "Second Prize in "Internet+" Innovation and Entrepreneurship Competition of SDU"
+  title = "Second Prize in \"Internet+\" Innovation and Entrepreneurship Competition of SDU"
   #url = ""
   certificate_url = ""
   date_start = "2017-08-10"
