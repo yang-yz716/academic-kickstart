@@ -98,7 +98,7 @@ address = {street = "17923 Jingshi Road ", city = "Jinan", region = "Shandong", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.655915", longitude = "117.033541"}
+coordinates = {latitude = "36.65595", longitude = "117.033518"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
