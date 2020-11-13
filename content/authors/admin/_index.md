@@ -52,9 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:yangzhiyong@mail.sdu.edu.cn"
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+ - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/yzycl97
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
