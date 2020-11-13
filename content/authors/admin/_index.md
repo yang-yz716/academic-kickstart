@@ -52,7 +52,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:yangzhiyong@mail.sdu.edu.cn"
- - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/yzycl97
 # - icon: google-scholar
