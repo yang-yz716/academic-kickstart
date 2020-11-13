@@ -18,7 +18,7 @@ organizations:
   url: "https://www.sdu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Deep Reinforcement Learning
@@ -27,21 +27,21 @@ interests:
 
 certificates:
  courses:
-  - course: IELTS
-    institution: 
-    year: 
+#  - course: IELTS
+#    institution: 
+#    year: 
   - course: College English Test Band 6 Certificate
     institution: PASS
     year: 497
   - course: Test for English Major Grade 4 Certificate
     institution: PASS
     year: 567
-  - course: National Mandarin Test
-    institution: 
-    year: (Level 2 / Grade A)
-  - course: National Computer Rank Examination (NCRE)
-    institution: Third-level Certificate for National Computer
-    year: RankⅢ
+#  - course: National Mandarin Test
+#    institution: 
+#    year: (Level 2 / Grade A)
+#  - course: National Computer Rank Examination (NCRE)
+#    institution: Third-level Certificate for National Computer
+#    year: RankⅢ
 
 
 # Social/Academic Networking
