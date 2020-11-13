@@ -27,15 +27,15 @@ interests:
 
 certificates:
  courses:
-#  - course: IELTS
-#    institution: 
-#    year: 
-  - course: College English Test Band 6 Certificate
-    institution: PASS
-    year: 497
-  - course: Test for English Major Grade 4 Certificate
-    institution: PASS
-    year: 567
+  - course: IELTS
+    institution: 
+    year: 
+#  - course: College English Test Band 6 Certificate
+#    institution: PASS
+#    year: 497
+#  - course: Test for English Major Grade 4 Certificate
+#    institution: PASS
+#    year: 567
 #  - course: National Mandarin Test
 #    institution: 
 #    year: (Level 2 / Grade A)
@@ -74,7 +74,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+#- Visitors
 ---
 
 hhh this is my biography
