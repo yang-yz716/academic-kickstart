@@ -14,23 +14,23 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
 #[[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+  #icon = "r-project"
+  #icon_pack = "fab"
+  #name = "R"
+  #description = "90%"
+  
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "Navigation"
+  description = "Mapping, Location, Object Detection, Target-driven Navigation"  
+  
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Robot"
+  description = "ROS, PID Control, Sensor, Filtering Algorithm"
 
 [[feature]]
   icon = "leanpub"
