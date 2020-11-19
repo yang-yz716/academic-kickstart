@@ -38,6 +38,18 @@ subtitle = ""
   name = "Machine Learning"
   description = "Deep Learning, Reinforcement Learning"
   
+[[feature]]
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Embedden System"
+  description = "STM32, CAN, UART, IIC, SPI" 
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "C++, Python3, C, MATLAB" 
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]
