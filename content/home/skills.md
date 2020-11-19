@@ -32,6 +32,13 @@ subtitle = ""
   name = "Photography"
   description = "10%"
 
+[[feature]]
+  icon = "leanpub"
+  icon_pack = "fab"
+  name = "Machine Learning"
+  description = "Deep Learning, Reinforcement Learning"
+  
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
