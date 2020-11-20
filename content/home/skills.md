@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Robot"
+  name = "Robotics"
   description = "ROS, PID Control, Sensor, Filtering Algorithm"
 
 [[feature]]
