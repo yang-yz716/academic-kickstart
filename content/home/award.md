@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Top 40(875 teams) | 2020 Huawei CodeCraft"
   url = "https://competition.huaweicloud.com/information/1000036578/introduction?track=113"
   certificate_url = ""
-  date_start = ""
-  date_end = "2020-04-27"
+  date_start = "2020-04-27"
+  #date_end = ""
   description = ""
 
 [[item]]
