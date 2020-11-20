@@ -50,7 +50,12 @@ subtitle = ""
   name = "Programming"
   description = "C++, Python3, C, MATLAB" 
   
-
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Git, Docker, VScode, Jupyter" 
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
