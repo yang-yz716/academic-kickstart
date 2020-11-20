@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Postgraduate Recommendation
   * Outstanding Freshman Scholarship(Top 3%)
-  * 
+  * Outstanding Student Scholarship (Grade 1)(4/83)
   """
 
 [[experience]]
