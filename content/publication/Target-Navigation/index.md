@@ -46,7 +46,7 @@ url_video: 'https://youtu.be/IhUz0O11aBo'
 image:
   caption: 'target navigation'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
