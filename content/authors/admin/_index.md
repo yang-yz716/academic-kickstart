@@ -23,6 +23,7 @@ organizations:
 interests:
 - Deep Reinforcement Learning
 - Target-driven Navigation
+- Embedded System
 - Robotics
 
 education:
