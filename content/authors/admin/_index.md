@@ -26,8 +26,10 @@ interests:
 - Embedded System
 - Robotics
 
-education:
- courses:
+
+
+## education:
+## courses:
 #  - course: IELTS
 #    institution: 
 #    year: 
@@ -37,12 +39,12 @@ education:
 #  - course: Test for English Major Grade 4 Certificate
 #    institution: PASS
 #    year: 567
-  - course: Shandong University
-    institution: Master of Science in Control Science and Engineering
-    year: 2019-now
-  - course: Shandong University
-    institution: Bachelor of Engineering in Automation Science and Technology
-    year: 2015-2019
+##  - course: Shandong University
+##    institution: Master of Science in Control Science and Engineering
+##    year: 2019-now
+##  - course: Shandong University
+##    institution: Bachelor of Engineering in Automation Science and Technology
+##    year: 2015-2019
 #  - course: National Mandarin Test
 #    institution: 
 #    year: (Level 2 / Grade A)
