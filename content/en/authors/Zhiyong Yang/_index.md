@@ -4,7 +4,7 @@ title: Zhiyong Yang
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Zhiyong Yang
 
 # Is this the primary user of the site?
 superuser: true
