@@ -1,10 +1,3 @@
-# Configuration of Hugo
-# Guide: https://sourcethemes.com/academic/docs/get-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-
 # Title of your site
 title = "Zhiyong Yang"
 
@@ -28,7 +21,7 @@ enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
