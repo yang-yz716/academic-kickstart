@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postgraduate Student of Control Science and Engineering
+role: 控制科学与工程\n硕士研究生
 
 # Organizations/Affiliations
 organizations:
