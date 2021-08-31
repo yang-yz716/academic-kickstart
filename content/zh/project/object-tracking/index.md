@@ -1,5 +1,5 @@
 ---
-title: 1
+title: Object Tracking
 summary: Object tracking based on IndustriPi
 tags:
 - Control system
@@ -30,7 +30,8 @@ image:
 slides: example
 ---
 
-1
+We use apriltag to achieve the object tracking and use ROS to display the tracking on the speacial IndustriPi, and we get the national second prize in National Undergraduate Electronic Design Context.
+
 {{< figure src="diansai.jpg" title="" lightbox="true" >}}
 
 {{< figure src="show.jpg" title="" lightbox="true" >}}
