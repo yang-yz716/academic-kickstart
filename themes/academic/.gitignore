@@ -1,8 +1,19 @@
-# IDEs
+# IDE specific
 .idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
 
 # Hugo
-/resources/
+resources/
 public/
-jsconfig.json
-node_modules/
+
+# Mac
+.DS_Store
+
+# Test
+test/go.sum
