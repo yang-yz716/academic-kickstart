@@ -30,7 +30,7 @@ image:
 slides: example
 ---
 
-We use apriltag to achieve the object tracking and use ROS to display the tracking on the speacial IndustriPi, and we get the national second prize in National Undergraduate Electronic Design Context.
+我们使用apriltag实现对象跟踪，并使用ROS在专用IndustriPi上显示跟踪结果，并在第十四届中国研究生电子设计竞赛中获得国家二等奖。
 
 {{< figure src="diansai.jpg" title="" lightbox="true" >}}
 
