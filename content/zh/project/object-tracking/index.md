@@ -1,5 +1,5 @@
 ---
-title: 物体检测与跟踪
+title: 1
 summary: Object tracking based on IndustriPi
 tags:
 - Control system
@@ -30,8 +30,7 @@ image:
 slides: example
 ---
 
-我们使用apriltag实现对象跟踪，并使用ROS在专用IndustriPi上显示跟踪结果，并在第十四届中国研究生电子设计竞赛中获得国家二等奖。
-
+1
 {{< figure src="diansai.jpg" title="" lightbox="true" >}}
 
 {{< figure src="show.jpg" title="" lightbox="true" >}}
