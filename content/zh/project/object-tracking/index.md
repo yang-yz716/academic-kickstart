@@ -1,5 +1,5 @@
 ---
-title: Object Tracking
+title: 物体检测与跟踪
 summary: Object tracking based on IndustriPi
 tags:
 - Control system
